@@ -1,9 +1,8 @@
-package consistent
+package src
 
 import (
-	"testing"
-
 	. "github.com/smartystreets/goconvey/convey"
+	"testing"
 )
 
 var (

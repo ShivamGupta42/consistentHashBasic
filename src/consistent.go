@@ -1,4 +1,4 @@
-package consistent
+package src
 
 import (
 	"errors"
